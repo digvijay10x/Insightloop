@@ -1,0 +1,16 @@
+# Backend
+backend/src/main/resources/application.properties
+backend/target/
+backend/.mvn/
+backend/mvnw
+backend/mvnw.cmd
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+
+# General
+.env
+*.log
+.DS_Store
